@@ -1,0 +1,19 @@
+body {
+  background-color: #ffdc00;
+}
+li {
+  list-style-type: square;
+  margin: 20px;
+}
+a {
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  background-color: #ffdc00 ;
+}
+span {
+  color: black;
+  background-color: white;
+}
